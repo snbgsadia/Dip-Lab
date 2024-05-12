@@ -98,3 +98,7 @@ titles = ['Original', 'Noisy', 'Denoised']
 for i in range(3):
     plt.subplot(1, 3, i + 1)
     plt.imshow(output[i])
+
+
+
+<img src="Screenshot (29)">
